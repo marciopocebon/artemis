@@ -5,7 +5,7 @@
 * python3
 * pip3 install requests bs4
 
-**RUN ARTEMIS**
+**DÉMARRER ARTEMIS**
 
 * git clone https://github.com/haisenberg/artemis.git
 * cd artemis
